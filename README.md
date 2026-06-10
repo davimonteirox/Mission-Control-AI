@@ -1,4 +1,4 @@
-# Mission Control AI 🚀
+# Mission Control AI 
 
 ##  Sobre o Projeto
 O **Mission Control AI** é um sistema em Python desenvolvido para simular o monitoramento inteligente de uma missão espacial experimental (Global Solution 2026.1 - FIAP). O programa analisa dados estruturados de ciclos de monitoramento, calculando pontuações de risco, tendências de piora/melhora e emitindo alertas de contingência.
